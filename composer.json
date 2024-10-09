@@ -72,7 +72,7 @@
     "repositories": [
         {
           "type": "vcs",
-        "url": "https://github.com/kiariep/LARAVEL-SDK.git"
+        "url": "https://github.com/ritzeresearcherteam/SDK-MONITORING.git"
         }
     ],
     "scripts": {
