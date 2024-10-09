@@ -1,0 +1,13 @@
+parameters:
+    level: 8
+    paths:
+        - src
+        - config
+    tmpDir: build/phpstan
+    checkOctaneCompatibility: true
+    checkModelProperties: true
+    treatPhpDocTypesAsCertain: false
+
+    ignoreErrors:
+        - identifier: missingType.generics
+        - identifier: missingType.iterableValue
